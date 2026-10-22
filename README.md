@@ -2,7 +2,7 @@
 
 A data-driven decision engine that segments abandoned e-commerce carts into behavioral archetypes and recommends a targeted, cost-aware intervention for each one. It ships with a Streamlit app for stakeholders and product managers.
 
-> **Live app:** _add your Streamlit Cloud link here_
+> **Live app:** [Open the Streamlit app](https://myntra-cart-recovery-optimizer-sdwgt7l25th2kmwyxwmmf2.streamlit.app/)
 
 ---
 
